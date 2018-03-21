@@ -1,1 +1,13 @@
 _site
+.classpath
+.project
+.settings
+/target/
+.idea/
+*.iml
+logs/
+*.ipr
+*.iws
+*.versionsBackup
+.DS_Store
+workbench.xmi
